@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "id": "4207734D-74FE-4F92-B5E1-6EC8DEE24A15",
+      "accessibilityLabel": "Golden Gate Sunset",
+      "shotID": "GG_A001",
+      "preferredOrder": 2,
+      "url-4K-SDR-240FPS": "https://sylvan.apple.com/itunes-assets/test/golden_gate_a.mov",
+      "previewImage": "https://sylvan.apple.com/itunes-assets/test/golden_gate_a.png",
+      "categories": ["A"], "subcategories": [], "includeInShuffle": true, "showInTopLevel": true,
+      "pointsOfInterest": {}, "localizedNameKey": "GG"
+    },
+    {
+      "id": "b2c3d4e5-0000-4000-8000-000000000002",
+      "accessibilityLabel": "Golden Gate Sunset",
+      "shotID": "GG_B002",
+      "preferredOrder": 1,
+      "url-4K-SDR-240FPS": "https://sylvan.apple.com/itunes-assets/test/golden_gate_b.mov"
+    },
+    {
+      "id": "C3D4E5F6-0000-4000-8000-000000000003",
+      "accessibilityLabel": "Desert Night",
+      "shotID": "DN_C003",
+      "preferredOrder": 3
+    },
+    {
+      "id": "D4E5F6A7-0000-4000-8000-000000000004",
+      "accessibilityLabel": "Elsewhere",
+      "shotID": "EL_D004",
+      "url-4K-SDR-240FPS": "http://example.com/elsewhere.mov"
+    },
+    {
+      "id": 12345,
+      "accessibilityLabel": "Broken"
+    },
+    {
+      "id": "E5F6A7B8-0000-4000-8000-000000000005",
+      "shotID": "NL_E005",
+      "variant": "dynamic",
+      "videoGravity": "fill",
+      "somethingNew": [1, 2, 3],
+      "url-4K-SDR-240FPS": "https://sylvan.apple.com/itunes-assets/test/no_label.mov"
+    }
+  ],
+  "categories": [],
+  "initialAssetCount": 4,
+  "localizationVersion": "test",
+  "version": 1
+}

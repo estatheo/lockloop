@@ -1,0 +1,23 @@
+# SwiftPM and Xcode
+.build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+Package.resolved
+
+# The built app and its zip
+build/
+
+# Video output and test media. Fixtures stay tracked.
+*.mov
+*.mp4
+*.m4v
+*.gif
+!Tests/AerialKitTests/Fixtures/**
+
+# macOS
+.DS_Store
+
+# Working notes, kept local
+docs/
